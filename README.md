@@ -1,5 +1,4 @@
 # notebooks-teoria
-Notebooks Jupyter de introducción a Python
 
 Los notebooks disponibles son:
 1. Introducción a Python
