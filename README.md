@@ -1,7 +1,18 @@
 # notebooks-teoria
 
 ### Referencia
-Se puede encontrar una explicación más completa de este material docente en el artículo **Introducción a la Programación con Python, Computación Interactiva y Aprendizaje Significativo**  ([PDF](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=430&path%5B%5D=632)), publicado en las _XXIV Jornadas sobre la Enseñanza Universitaria de la Informática_ ([JENUI18](http://jenui2018.uoc.edu/))
+Se puede encontrar una explicación más completa de este material docente en el artículo **Introducción a la Programación con Python, Computación Interactiva y Aprendizaje Significativo**  ([PDF](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=430&path%5B%5D=632)), publicado en las _XXIV Jornadas sobre la Enseñanza Universitaria de la Informática_ ([JENUI18](http://jenui2018.uoc.edu/)). Para citar este trabajo:
+
+```
+@article{troyano2018introduccion,
+  title={Introducci{\'o}n a la Programaci{\'o}n con Python, Computaci{\'o}n Interactiva y Aprendizaje Significativo},
+  author={Troyano, Jos{\'e} A and Cruz, Ferm{\'\i}n and Gonz{\'a}lez, Mariano and Vallejo, Carlos G and Toro, Miguel},
+  journal={Actas de las Jenui},
+  volume={3},
+  pages={223--230},
+  year={2018}
+}
+```
 
 ### Contenido
 Cada notebook es un tutorial (no exhaustivo) que introduce distintos elementos del lenguaje Python. La mayor parte de las celdas de código están completas, por lo que los notebooks son fáciles de seguir sin atascarse.
