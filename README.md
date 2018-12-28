@@ -12,7 +12,7 @@ Los notebooks disponibles son:
 5. Secuencias, listas y tuplas
 6. Diccionarios y conjuntos
 7. Entrada y salida
-8. Expresiones regulares
+8. Expresiones regulares y contenedores avanzados
 
 Para poder ejecutar los notebooks es necesario instalar Jupyter (http://jupyter.org/). Lo más recomendable es hacerlo a través de la distribución de Anaconda (https://conda.io/docs/user-guide/install/download.html) que incluye el intérprete de Python, y la mayoría de las librerías que usaremos a lo largo del curso.
 
