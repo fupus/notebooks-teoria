@@ -1,4 +1,5 @@
 # notebooks-teoria
+Notebooks Jupyter de introducción a Python
 
 ### Referencia
 Se puede encontrar una explicación más completa de este material docente en el artículo **Introducción a la Programación con Python, Computación Interactiva y Aprendizaje Significativo**  ([PDF](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=430&path%5B%5D=632)), publicado en las _XXIV Jornadas sobre la Enseñanza Universitaria de la Informática_ ([JENUI18](http://jenui2018.uoc.edu/)). Para citar este trabajo:
