@@ -3,7 +3,7 @@
 ### Referencia
 Este repositorio contiene los 
 
-## Contenido
+### Contenido
 Cada notebook es un tutorial (no exhaustivo) que introduce distintos elementos del lenguaje Python. La mayor parte de las celdas de código están completas, por lo que los notebooks son fáciles de seguir sin atascarse.
 
 El primero de los notebooks se hará en clase para presentar el lenguaje y el entorno de trabajo. A partir del segundo, los alumnos trabajarán con ellos de forma autónoma en sus horas de estudio.
