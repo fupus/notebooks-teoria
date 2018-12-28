@@ -5,8 +5,8 @@ Se puede encontrar una explicación más completa de este material docente en el
 
 ```
 @article{troyano2018introduccion,
-  title={Introducci{\'o}n a la Programaci{\'o}n con Python, Computaci{\'o}n Interactiva y Aprendizaje Significativo},
-  author={Troyano, Jos{\'e} A and Cruz, Ferm{\'\i}n and Gonz{\'a}lez, Mariano and Vallejo, Carlos G and Toro, Miguel},
+  title={Introducción a la Programación con Python, Computación Interactiva y Aprendizaje Significativo},
+  author={Troyano, José A. and Cruz, Fermín and González, Mariano and Vallejo, Carlos G. and Toro, Miguel},
   journal={Actas de las Jenui},
   volume={3},
   pages={223--230},
