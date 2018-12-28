@@ -1,4 +1,6 @@
-# notebooks-teoria
+## notebooks-teoria
+
+Este repositorio contiene los 
 
 Cada notebook es un tutorial (no exhaustivo) que introduce distintos elementos del lenguaje Python. La mayor parte de las celdas de código están completas, por lo que los notebooks son fáciles de seguir sin atascarse.
 
