@@ -1,2 +1,0 @@
-Un pequeño texto de prueba.
-Sólo hay dos líneas en este fichero.
